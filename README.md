@@ -4,13 +4,14 @@
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dwillk0814&longCache=true"/>
 
 
-I recently graduated from the University of Delaware with a BS in Computer Science and a minor in CyberSecurity.  I want to apply this degree in a career as a Software Engineer.  I am passionate about building systems that bring value to their users and I am excited to learn all of the new ways that we can use software to affect real change in people's lives.
+I recently graduated from the University of Delaware with a BS in Computer Science and a minor in CyberSecurity.  I want to apply this degree in a career as a Software Engineer.
 
 If you want to connect with me or get more information on my education & experience you can:
 - 📫 drop me an email at wkoenig0814@gmail.com
 - 🖥️ check out my website at [here](https://willk0814.github.io/personal_portfolio/)
 
 ### Current Work:
+I am passionate about building systems that bring value to their users and I am excited to learn all of the new ways that we can use software to affect real change in people's lives.
 - 🌱 I am currently learning React, building user centered software has always been a priority for me and React      really empowers developers to focus on the user experience when building software
 - 🔨 I am currently working on a sorting visualization tool in React; check out the [repo](https://github.com/willk0814/sorting_visualizer) or go to the project's [website](https://willk0814.github.io/sorting_visualizer/)   
 
