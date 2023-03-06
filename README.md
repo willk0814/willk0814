@@ -8,7 +8,7 @@ I recently graduated from the University of Delaware with a BS in Computer Scien
 
 If you want to connect with me or get more information on my education & experience you can:
 - 📫 drop me an email at wkoenig0814@gmail.com
-- 🖥️ check out my website at [willk0814.github.io/personal_portfolio/](https://willk0814.github.io/personal_portfolio/)
+- 🖥️ check out my website at [here](https://willk0814.github.io/personal_portfolio/)
 
 ### Current Work:
 - 🌱 I am currently learning React, building user centered software has always been a priority for me and React      really empowers developers to focus on the user experience when building software
