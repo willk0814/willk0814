@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Will 👋
+
+I recently graduated from the University of Delaware with a BS in Computer Science and a minor in CyberSecurity.  I am looking to pursue a career as a software engineer!
 
 <!--
 **willk0814/willk0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
