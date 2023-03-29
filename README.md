@@ -12,8 +12,8 @@ If you want to connect with me or get more information on my education & experie
 
 ### Current Work:
 I am passionate about building systems that bring value to their users and I am excited to learn all of the new ways that we can use software to affect real change in people's lives.
-- 🌱 I am currently learning React, building user centered software has always been a priority for me and React      really empowers developers to focus on the user experience when building software
-- 🔨 I am currently working on a sorting visualization tool in React; check out the [repo](https://github.com/willk0814/sorting_visualizer) or go to the project's [website](https://willk0814.github.io/sorting_visualizer/)   
+- 🌱 I am currently learning React, building user centered software has always been a priority for me and React really empowers developers to focus on the user experience when building software
+- 🔨 I am currently working on a few React projects including a sorting algorithm visualizer and a pathfinding algorithm visualizer; check out the projects at the following links; [sorting visualizer](https://willk0814.github.io/sorting_visualizer/), [pathfinding visualizer](https://willk0814.github.io/pathfinding_visualizer/)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willk0814&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
