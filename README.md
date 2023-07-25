@@ -3,8 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=willk0814.willk0814)
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dwillk0814&longCache=true"/>
 
-
-I recently graduated from the University of Delaware with a BS in Computer Science and a minor in CyberSecurity.  I want to apply this degree in a career as a Software Engineer.
+I am currently pursuing my Masters of Science in Computer Science at Stevens Institute of Technology.  I want to apply all that I have learned throughout my continuing education to a full-time software engineering role.
 
 If you want to connect with me or get more information on my education & experience you can:
 - 📫 drop me an email at wkoenig0814@gmail.com
