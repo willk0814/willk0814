@@ -18,8 +18,10 @@ I am passionate about building systems that bring value to their users and I am 
 - 🔨 [Sorting Visualizer](https://willk0814.github.io/sorting_visualizer/) &rarr; A React app that demonstrates the steps taken by different comparison based sorting algorithms as they sort an array
 - 🔨 [Just Notes](https://github.com/willk0814/justNotes) &rarr; A full stack application developed with the MERN stack that offers a simple note-taking experience
 - 🔨 [Portfolio Website](https://willkoenig.vercel.app) &rarr; My portfolio website; check it out to get more information about my skills, education, experience, and to see some of my projects
+
 <br>
 🌱 As I continue my education I am sharpening my skills in python and becoming more and more comfortable in many of the libraries and practices that are so key to machine learning
+
 - 🔨 [Hand Written Number Recongition](https://github.com/willk0814/numberRecognition) &rarr; a Neural Network that I built without the use of any libraries and trained using feed forward and back propagation to recognize hand written numbers 0-9
  
 Look through my repositories and don't hesitate to reach out if you have any questions about anything that I have built or are interested in collaborating on any projects.
