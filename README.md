@@ -9,6 +9,7 @@ If you want to connect with me or get more information on my education & experie
 - 📫 drop me an email at wkoenig0814@gmail.com
 - 🖥️ check out my website [here](https://willkoenig.vercel.app)
 
+<!-- 
 ### Current Work:
 I am passionate about building systems that bring value to their users and I am excited to learn all of the new ways that I can use software to affect real change in people's lives.
 <br>
@@ -26,7 +27,7 @@ I am passionate about building systems that bring value to their users and I am 
  
 Look through my repositories and don't hesitate to reach out if you have any questions about anything that I have built or are interested in collaborating on any projects.
   
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willk0814&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=willk0814&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 [![Wills's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=willk0814)](https://github.com/willk0814/github-readme) -->
 
